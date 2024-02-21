@@ -5,7 +5,7 @@ use CodeIgniter\Router\RouteCollection;
 /**
  * @var RouteCollection $routes
  */
-$routes->get('/', 'home::index');
+$routes->get('/', 'Home::index');
 use App\Controllers\Pages;
 
 $routes->get('pages', [Pages::class, 'index']);
