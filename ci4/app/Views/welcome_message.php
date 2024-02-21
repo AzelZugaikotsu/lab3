@@ -104,7 +104,6 @@
     </div>
   </div>
 
-  <!-- Hobbies section -->
   <div class="flex-container2" id="hobbies">
     <div style="margin: 0 auto;"> <!-- Center the content within the div -->
       <h2>These are some of my current hobbies:</h2>
