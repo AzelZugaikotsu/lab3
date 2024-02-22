@@ -115,7 +115,6 @@
   <div class="flex-container2
     <div style="margin: 0 auto;"> <!-- Center the content within the div -->
     <h2>And now to showcase one of my hobbies. Here is my list of my top 10 videogame boss themes:</h2>
-   <h2>And just to be fair. I decided I'll only be choosing one song per franchise (spinoffs are separate) just as most youtubers do when they make lists like these</h2>
     <ol>
       <li><a href="https://www.youtube.com/watch?v=5TI10ciEKX0"> #1:"It Has To Be This Way" from Metal Gear Rising Revengeance </a></li>
       <li><a href="https://www.youtube.com/watch?v=fzqx7Dp3a8Y"> #2:"Unwavering Belief" from Lost Judgement </a></li>
