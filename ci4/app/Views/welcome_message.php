@@ -50,13 +50,7 @@
   <script>
     // JavaScript class for handling website functionality
     class PersonalWebsite {
-      constructor() {
-        this.hobbiesArray = [
-          { name: "Writing", image: "https://i.ibb.co/8bKTx9g/images-2.jpg" },
-          { name: "Gaming", image: "https://i.ibb.co/1z22VLb/images.jpg" },
-          { name: "Walking around town", image: "https://i.ibb.co/JxMkzQV/images-1.jpg" }
-          // Add more hobbies as needed
-        ];
+
       }
 
       toggleSections(sectionId) {
@@ -96,7 +90,7 @@
 </head>
 <body>
   <!-- Introduction section -->
-  <div class="flex-container2" id="introduction">
+  <div class="flex-container" id="introduction">
     <div>
       <h2> Good Afternoon, My name is <strong>Alexus Sabanal</strong>.</h2>
       <p>I am a 23-year-old BSCS SF Student of Asia Pacific College. And I fully intend on completing this class through any means necessary. That being said, I do have a few weaknesses such as the habit of spacing out all the time. But of course, I do the best that I can to supplement them.</p>
@@ -108,14 +102,19 @@
   <div class="flex-container2" id="hobbies">
     <div style="margin: 0 auto;"> <!-- Center the content within the div -->
       <h2>These are some of my current hobbies:</h2>
-      <ol id="hobbies-list"></ol>
+      <ol>
+        <li><strong>Writing</strong><a href="https://ibb.co/Mf2W17k"><img src="https://i.ibb.co/8bKTx9g/images-2.jpg" alt="Writing"></a> </li>
+        <li><strong>Gaming</strong><a href="https://ibb.co/hY885yC"><img src="https://i.ibb.co/1z22VLb/images.jpg" alt="Gaming"></a> </li>
+        <li><strong>Walking around town</strong> <a href="https://ibb.co/mvMzH8k"><img src="https://i.ibb.co/JxMkzQV/images-1.jpg" alt="Walking"></a> </li>
+        <li><strong>And many more rather risque ones that I cannot show here out of fear of being judged for them.</strong>
+      </ol>
     </div>
   </div>
 
   <!-- Top 10 Boss Themes in Videogames -->
   <div class="flex-container2">
     <h2>And now to showcase one of my hobbies. Here is my list of my top 10 videogame boss themes:</h2>
-      <p> And just to be fair. I decided I'll only be choosing one song per franchise (spinoffs are separate) just as most youtubers do when they make lists like these</p>
+   <h2>And just to be fair. I decided I'll only be choosing one song per franchise (spinoffs are separate) just as most youtubers do when they make lists like these</h2>
     <ol>
       <li><a href="https://www.youtube.com/watch?v=5TI10ciEKX0"> #1:"It Has To Be This Way" from Metal Gear Rising Revengeance </a></li>
       <li><a href="https://www.youtube.com/watch?v=fzqx7Dp3a8Y"> #2:"Unwavering Belief" from Lost Judgement </a></li>
@@ -127,7 +126,6 @@
       <li><a href="https://www.youtube.com/watch?v=9r3KK77vFgc"> #8:"My Last Stand" from Tekken 8</a></li>
       <li><a href="https://www.youtube.com/watch?v=J9IwRWu70NQ"> #9:"LAMIA" from Punishing: Gray Raven </a></li>
       <li><a href="https://www.youtube.com/watch?v=kfR0gUsNcds"> #10:"wdlsm" from Arknights</a></li>
-
     </ol>
   </div>
 
