@@ -112,7 +112,8 @@
   </div>
 
   <!-- Top 10 Boss Themes in Videogames -->
-  <div class="flex-container2">
+  <div class="flex-container2
+    <div style="margin: 0 auto;"> <!-- Center the content within the div -->
     <h2>And now to showcase one of my hobbies. Here is my list of my top 10 videogame boss themes:</h2>
    <h2>And just to be fair. I decided I'll only be choosing one song per franchise (spinoffs are separate) just as most youtubers do when they make lists like these</h2>
     <ol>
