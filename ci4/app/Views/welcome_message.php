@@ -111,23 +111,25 @@
     </div>
   </div>
 
-  <!-- Top 10 Boss Themes in Videogames -->
-  <div class="flex-container2
-    <div style="margin: 0 auto;"> <!-- Center the content within the div -->
+<!-- Top 10 Boss Themes in Videogames -->
+<div class="flex-container2">
+  <div style="margin: 0 auto; text-align: center;"> <!-- Center the content within the div -->
     <h2>And now to showcase one of my hobbies. Here is my list of my top 10 videogame boss themes:</h2>
     <ol>
-      <li><a href="https://www.youtube.com/watch?v=5TI10ciEKX0"> #1:"It Has To Be This Way" from Metal Gear Rising Revengeance </a></li>
-      <li><a href="https://www.youtube.com/watch?v=fzqx7Dp3a8Y"> #2:"Unwavering Belief" from Lost Judgement </a></li>
-      <li><a href="https://www.youtube.com/watch?v=jtGH1HQKDT4"> #3:"The End of Denial" from Like a Dragon: Infinite Wealth </a></li>
-      <li><a href="https://www.youtube.com/watch?v=6nvelCV1wuE"> #4:"The One Who Spins Samsara" from Asura's Wrath </a></li>
-      <li><a href="https://www.youtube.com/watch?v=ci3gO75B3Yc"> #5:"Birth Of A Wish" from Nier: Automata </a></li>
-      <li><a href="https://www.youtube.com/watch?v=Q8dWUZ5xOHM"> #6:"Bury The Light" from Devil May Cry V</a></li>
-      <li><a href="https://www.youtube.com/watch?v=6hjyuQFhAsI"> #7:"Carmeaty Burana" from Super Meat Boy</a></li>
-      <li><a href="https://www.youtube.com/watch?v=9r3KK77vFgc"> #8:"My Last Stand" from Tekken 8</a></li>
-      <li><a href="https://www.youtube.com/watch?v=J9IwRWu70NQ"> #9:"LAMIA" from Punishing: Gray Raven </a></li>
-      <li><a href="https://www.youtube.com/watch?v=kfR0gUsNcds"> #10:"wdlsm" from Arknights</a></li>
+      <li><a href="https://www.youtube.com/watch?v=5TI10ciEKX0">#1:"It Has To Be This Way" from Metal Gear Rising Revengeance</a></li>
+      <li><a href="https://www.youtube.com/watch?v=fzqx7Dp3a8Y">#2:"Unwavering Belief" from Lost Judgement</a></li>
+      <li><a href="https://www.youtube.com/watch?v=jtGH1HQKDT4">#3:"The End of Denial" from Like a Dragon: Infinite Wealth</a></li>
+      <li><a href="https://www.youtube.com/watch?v=6nvelCV1wuE">#4:"The One Who Spins Samsara" from Asura's Wrath</a></li>
+      <li><a href="https://www.youtube.com/watch?v=ci3gO75B3Yc">#5:"Birth Of A Wish" from Nier: Automata</a></li>
+      <li><a href="https://www.youtube.com/watch?v=Q8dWUZ5xOHM">#6:"Bury The Light" from Devil May Cry V</a></li>
+      <li><a href="https://www.youtube.com/watch?v=6hjyuQFhAsI">#7:"Carmeaty Burana" from Super Meat Boy</a></li>
+      <li><a href="https://www.youtube.com/watch?v=9r3KK77vFgc">#8:"My Last Stand" from Tekken 8</a></li>
+      <li><a href="https://www.youtube.com/watch?v=J9IwRWu70NQ">#9:"LAMIA" from Punishing: Gray Raven</a></li>
+      <li><a href="https://www.youtube.com/watch?v=kfR0gUsNcds">#10:"wdlsm" from Arknights</a></li>
     </ol>
   </div>
+</div>
+
 
   <!-- Dog section -->
   <div class="flex-container2" id="dog">
