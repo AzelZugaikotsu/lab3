@@ -7,9 +7,9 @@ use CodeIgniter\Router\RouteCollection;
  */
 $routes->get('/', 'Home::index');
 
-use app\Controllers\Guests;
-use app\Controllers\News;
-use app\Controllers\Pages;
+use App\Controllers\Guests;
+use App\Controllers\News;
+use App\Controllers\Pages;
 
 $routes->get('guest', [Guests::class, 'index']);
 $routes->get('guest/new', [Guests::class, 'new']);
